@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">Data Visualization with Processing</h1>
-    <h4 align="center">Exercises from the <a href="https://www-apps.univ-lehavre.fr/forge/profs-iWOCS/m1_iwocs_dataviz/-/wikis/home">following</a> wiki</h4>
+    <h3 align="center">Exercises from the <a href="https://www-apps.univ-lehavre.fr/forge/profs-iWOCS/m1_iwocs_dataviz/-/wikis/home">following</a> wiki</h3>
 </p>
 
 <p align="center">
